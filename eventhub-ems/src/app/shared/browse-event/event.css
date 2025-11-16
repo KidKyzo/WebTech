@@ -1,0 +1,12 @@
+.card {
+
+    .card-title {
+        margin-bottom: 1px;
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    .text-describe {
+        margin-bottom: 10px;
+    }
+}
